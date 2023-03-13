@@ -12,4 +12,4 @@ Hopefully from my work you would
 * inspiration 
 * see the fun behind R code
 
-This will be a link to the markdown file of the meme I made on R which is on [Github]().  
+This will be a link to the markdown file of the meme I made on R which is on [Github](https://shanniechen1011.github.io/stats220/).  
